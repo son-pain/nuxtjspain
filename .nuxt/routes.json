@@ -1,0 +1,52 @@
+[
+  {
+    "path": "/home",
+    "component": "C:\\\\Work\\\\nuxtjspain\\\\pages\\\\home.vue",
+    "chunkName": "pages/home",
+    "children": [
+      {
+        "name": "home",
+        "path": "",
+        "component": "C:\\\\Work\\\\nuxtjspain\\\\pages\\\\home\\\\index.vue",
+        "chunkName": "pages/home/index",
+        "_name": "_a3eaf7f2"
+      },
+      {
+        "name": "home-sidebar",
+        "path": "sidebar",
+        "component": "C:\\\\Work\\\\nuxtjspain\\\\pages\\\\home\\\\sidebar\\\\index.vue",
+        "chunkName": "pages/home/sidebar/index",
+        "_name": "_61d6adde"
+      },
+      {
+        "name": "home-sidebar-news",
+        "path": "sidebar/news",
+        "component": "C:\\\\Work\\\\nuxtjspain\\\\pages\\\\home\\\\sidebar\\\\news\\\\index.vue",
+        "chunkName": "pages/home/sidebar/news/index",
+        "_name": "_5c1b379e"
+      },
+      {
+        "name": "home-sidebar-profile",
+        "path": "sidebar/profile",
+        "component": "C:\\\\Work\\\\nuxtjspain\\\\pages\\\\home\\\\sidebar\\\\profile\\\\index.vue",
+        "chunkName": "pages/home/sidebar/profile/index",
+        "_name": "_04dbe24c"
+      }
+    ],
+    "_name": "_163be7ca"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Work\\\\nuxtjspain\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_75774446"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Work\\\\nuxtjspain\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_08c68a74"
+  }
+]

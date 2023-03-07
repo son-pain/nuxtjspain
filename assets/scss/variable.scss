@@ -1,0 +1,59 @@
+:root {
+  --color-primary: #626c13;
+  --color-disable: #6C757D;
+  --color-white: #fff;
+  --color-black: #000;
+  --color-1: #4c503e;
+  --color-2: #e67e22;
+  --color-3: #d45806;
+  --color-4: #eea565;
+  --color-5: #7c8d9d;
+  --color-6: #51513d;
+  --color-7: #e7edd7;
+  --color-8: #ffa500;
+  --color-9: #ffffff;
+
+}
+
+@font-face {
+  font-family: font-primary-thin;
+  src: url('../font/Font_Gilroy_VH_Full/SVN-Gilroy Thin.otf')
+}
+@font-face {
+  font-family: font-primary-regular;
+  src: url('../font/Font_Gilroy_VH_Full/SVN-Gilroy Regular.otf')
+}
+@font-face {
+  font-family: font-primary-medium;
+  src: url('../font/Font_Gilroy_VH_Full/SVN-Gilroy Medium.otf')
+}
+@font-face {
+  font-family: font-primary-semibold;
+  src: url('../font/Font_Gilroy_VH_Full/SVN-Gilroy SemiBold.otf')
+}
+@font-face {
+  font-family: font-primary-bold;
+  src: url('../font/Font_Gilroy_VH_Full/SVN-Gilroy Bold.otf')
+}
+
+
+* {
+  font-family: font-primary-regular, sans-serif;
+}
+.font--thin {
+  font-family: font-primary-thin, sans-serif;
+}
+.font--regular {
+  font-family: font-primary-regular, sans-serif;
+}
+.font--medium {
+  font-family: font-primary-medium, sans-serif;
+}
+.font--semibold {
+  font-family: font-primary-semibold, sans-serif;
+}
+.font--bold {
+  font-family: font-primary-bold, sans-serif;
+}
+
+
